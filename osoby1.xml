@@ -2,13 +2,13 @@
 <osoby>
     <osoba osCislo='R1245'>
         <jmeno>Jan</jmeno>
-        <prijmeni>Novák</prijmeni>
+        <prijmeni>Zelený</prijmeni>
         <stav>studuje</stav>
         <obor>KMI</obor>
-        <rocnik>2</rocnik>
+        <rocnik>1</rocnik>
         <email>jan.novak06@upol.cz</email>
         <pohlavi>muž</pohlavi>
-        <kredity>12</kredity>
+        <kredity>1</kredity>
     </osoba>
     <osoba osCislo='R1246'>
         <jmeno>Hana</jmeno>
